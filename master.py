@@ -6,9 +6,9 @@ app = Flask(__name__)
 
 # list of ireland images
 images = [
-    'http://drive.google.com/uc?export=view&id=14_kMj43xi5YJpPbAaGeRgX9jI7b_btkC',
-    'http://drive.google.com/uc?export=view&id=14_kMj43xi5YJpPbAaGeRgX9jI7b_btkC',
-    'http://drive.google.com/uc?export=view&id=14_kMj43xi5YJpPbAaGeRgX9jI7b_btkC'
+    "http://drive.google.com/uc?export=view&id=14_kMj43xi5YJpPbAaGeRgX9jI7b_btkC",
+    "http://drive.google.com/uc?export=view&id=14_kMj43xi5YJpPbAaGeRgX9jI7b_btkC",
+    "http://drive.google.com/uc?export=view&id=14_kMj43xi5YJpPbAaGeRgX9jI7b_btkC"
 ]
 
 

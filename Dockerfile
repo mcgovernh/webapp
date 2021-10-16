@@ -8,6 +8,7 @@ COPY . .
 
 # install dependencies
 RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install -U Flask
 
 # tell the port number the container should expose
 EXPOSE 5000

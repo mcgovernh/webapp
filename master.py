@@ -7,8 +7,7 @@ app = Flask(__name__)
 # list of ireland images
 images = [
     "https://assets-eu-01.kc-usercontent.com/aa24ba70-9a12-01ae-259b-7ef588a0b2ef/2c9a48c5-0768-4bb8-ae6c-02f205de02f3/header-dogs-bay-beach-connemara-galway.jpg?w=756&amp;q=66&amp;h=716&amp;fit=crop&amp;fm=webp",
-    "https://assets-eu-01.kc-usercontent.com/aa24ba70-9a12-01ae-259b-7ef588a0b2ef/2c9a48c5-0768-4bb8-ae6c-02f205de02f3/header-dogs-bay-beach-connemara-galway.jpg?w=756&amp;q=66&amp;h=716&amp;fit=crop&amp;fm=webp",
-    "https://assets-eu-01.kc-usercontent.com/aa24ba70-9a12-01ae-259b-7ef588a0b2ef/2c9a48c5-0768-4bb8-ae6c-02f205de02f3/header-dogs-bay-beach-connemara-galway.jpg?w=756&amp;q=66&amp;h=716&amp;fit=crop&amp;fm=webp"
+    "https://assets-eu-01.kc-usercontent.com:443/aa24ba70-9a12-01ae-259b-7ef588a0b2ef/32165516-3fca-4baa-b5da-9dad8d227888/header-wild-nephin-ballycroy-national-park-mayo.jpg?w=756&amp;q=66&amp;h=448&amp;fit=crop&amp;fm=webp"
 
 ]
 

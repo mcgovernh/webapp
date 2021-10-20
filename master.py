@@ -12,7 +12,6 @@ images = [
     "https://assets-eu-01.kc-usercontent.com:443/aa24ba70-9a12-01ae-259b-7ef588a0b2ef/9edcbd74-6172-4e67-817d-7146fc1ace16/header-cork-city-cork.jpg?w=1152&amp;q=66&amp;h=624&amp;fit=crop&amp;fm=webp",
     "https://assets-eu-01.kc-usercontent.com:443/aa24ba70-9a12-01ae-259b-7ef588a0b2ef/3424d425-c34b-4e9a-8838-ae4246f278cb/header-sliabh-league-donegal%20walk.jpg?w=756&amp;q=66&amp;h=560&amp;fit=crop&amp;fm=webp",
     "https://assets-eu-01.kc-usercontent.com:443/aa24ba70-9a12-01ae-259b-7ef588a0b2ef/d2dda78f-e984-4928-8392-aa9630068199/header-kylemore-abbey-galway.jpg?w=756&amp;q=66&amp;h=560&amp;fit=crop&amp;fm=webp"
-
 ]
 
 

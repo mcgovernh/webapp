@@ -1,5 +1,6 @@
 <html>
   <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js"></script>
     <style type="text/css">
       body {
         color: white;
@@ -28,10 +29,23 @@
     </style>
   </head>
   <body>
-    <div class="container">
+    <div class="container slideInLeft wow animated">
       <h4>Images of Ireland</h4>
       <img src="{{url}}"/>
       <p><small>Thanks to: <a href="http://www.discoverireland.com/">Discover Ireland</a></small></p>
     </div>
+    <script type="text/javascript">
+    // loads Wow effect for animations
+    wow = new WOW(
+        {
+          boxClass:     'wow',      // default
+          animateClass: 'animated', // default
+          offset:       0,          // default
+          mobile:       true,       
+          live:         true        // default
+        }
+      )
+    new WOW().init();
+    </script>
   </body>
 </html>
